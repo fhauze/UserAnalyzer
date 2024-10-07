@@ -1,0 +1,9 @@
+2024-10-04 21:55:44,279 INFO:File py_user_logs.csv tidak ditemukan. Membuat file baru dengan header.
+2024-10-04 21:55:44,280 ERROR:Error menulis file CSV: 'str' object has no attribute 'keys'
+2024-10-05 04:42:28,375 ERROR:Error menulis file CSV: [Errno 13] Permission denied: 'D:\\JOB\\metrologi-24-08-2-23\\skhp\\writable\\spc_logs.csv'
+2024-10-05 04:44:50,424 ERROR:Error menulis file CSV: [Errno 13] Permission denied: 'D:\\JOB\\metrologi-24-08-2-23\\skhp\\writable\\spc_logs.csv'
+2024-10-05 04:45:38,046 ERROR:Error menulis file CSV: [Errno 13] Permission denied: 'D:\\JOB\\metrologi-24-08-2-23\\skhp\\writable\\spc_logs.csv'
+2024-10-05 04:46:41,444 ERROR:Error menulis file CSV: [Errno 13] Permission denied: 'D:\\JOB\\metrologi-24-08-2-23\\skhp\\writable\\spc_logs.csv'
+2024-10-05 04:49:37,769 ERROR:Error menulis file CSV: [Errno 13] Permission denied: 'D:\\JOB\\metrologi-24-08-2-23\\skhp\\writable\\spc_logs.csv'
+2024-10-05 05:47:50,546 ERROR:Error menulis file CSV: [Errno 13] Permission denied: 'D:\\JOB\\metrologi-24-08-2-23\\skhp\\writable\\spc_logs.csv'
+2024-10-05 06:00:22,829 ERROR:Error menulis file CSV: [Errno 13] Permission denied: 'D:\\JOB\\metrologi-24-08-2-23\\skhp\\writable\\spc_logs.csv'

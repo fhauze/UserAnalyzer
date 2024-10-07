@@ -1,0 +1,13 @@
+{
+    "name": "fir2be/user-analyzer",
+    "description": "A middleware package for detecting user behavior and security attacks.",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "UserAnalyzer\\": "src/"
+        }
+    }
+}
